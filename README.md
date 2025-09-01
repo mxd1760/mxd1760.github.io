@@ -13,3 +13,6 @@
 
 ### (optional) Python full stack database application
 [https://github.com/mxd1760/PymongoServerDashboard](https://github.com/mxd1760/PymongoServerDashboard)
+
+### (optional) MEAN full stack application (mongo express angular next.js)
+[https://github.com/mxd1760/CS465-Full-Stack-Development](https://github.com/mxd1760/CS465-Full-Stack-Development)
