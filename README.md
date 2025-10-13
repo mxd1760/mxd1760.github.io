@@ -4,9 +4,9 @@
 
 [Download Code Review Script](Milestones/Milestone_1_Code_Review_Script.docx)
 
-[Download video part 1](Milestones/Milestone1_Code_Review_Part_1.mp4) - 
-[Download video part 2](Milestones/Milestone1_Code_Review_Part_2.mp4) - 
-[Download video part 3](Milestones/Milestone1_Code_Review_Part_3.mp4)
+[Download video part 1](Milestones/Milestone_1_Code_Review_Part_1.mp4) - 
+[Download video part 2](Milestones/Milestone_1_Code_Review_Part_2.mp4) - 
+[Download video part 3](Milestones/Milestone_1_Code_Review_Part_3.mp4)
 
 ## Artifacts
 
