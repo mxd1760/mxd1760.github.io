@@ -24,9 +24,17 @@
 
 [end of CS 499](https://github.com/mxd1760/3DSceneFromPrimitives/commit/997e913)
 
-### MEAN full stack application (mongo express angular next.js)
+### MEAN Full Stack Application (mongo express angular next.js)
 [current repo](https://github.com/mxd1760/Travlr-Web-App)
 
 [start of CS 499](https://github.com/mxd1760/Travlr-Web-App/commit/f5f6887)
 
 [end of CS 499](https://github.com/mxd1760/Travlr-Web-App/commit/20a771c)
+
+## Narratives 
+
+[Download Mobile App Project Narrative](Milestones/Milestone_2_Narrative.docx)
+
+[Download Graphics Programming Project Narrative](Milestones/Milestone_3_narrative.docx)
+
+[Download MEAN Full Stack Application Narrative](Milestones/Milestone_4_narrative.docx)
