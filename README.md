@@ -38,3 +38,7 @@
 [Download Graphics Programming Project Narrative](Milestones/Milestone_3_narrative.docx)
 
 [Download MEAN Full Stack Application Narrative](Milestones/Milestone_4_narrative.docx)
+
+## Professional Self-Assessment
+
+[Download self-assessment](Professional_Self-assessment.docx)
